@@ -1,1 +1,1 @@
-# cedentials-android-releases
+# credentials-android-releases
